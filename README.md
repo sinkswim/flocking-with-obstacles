@@ -2,7 +2,7 @@
 Two NetLogo models to simulate obstacle avoidance in a multi-agent system.
 
 ## Flocking With Drawable Obstacles and Target
-In this simulation obstacles can be drawn before and during simulation. Boids will try to avoid them will moving towards a target. The flock is attracted by the target's potential field.
+In this simulation obstacles can be drawn before and during simulation. Boids will try to avoid them while moving towards a target. The flock is attracted by the target's potential field.
 ![alt tag](https://github.com/sinkswim/flocking-with-obstacles/blob/master/fwdoat.png)
 
 ## Flocking with Tree Avoidance and Target.nlogo
