@@ -6,7 +6,8 @@ In this simulation obstacles can be drawn before and during simulation. Boids wi
 ![alt tag](https://github.com/sinkswim/flocking-with-obstacles/blob/master/fwdoat.png)
 
 ## Flocking with Tree Avoidance and Target.nlogo
-Here the obstacles (trees) are generated in random positions each time we setup the simulation. Like the previous model the flock moves towards the target.
+Here the obstacles (trees) are generated in random positions each time we setup the simulation.
+Like the previous model the flock moves towards the target.
 ![alt tag](https://github.com/sinkswim/flocking-with-obstacles/blob/master/fwtaat.png)
 
 ## Running
